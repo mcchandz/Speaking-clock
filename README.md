@@ -15,5 +15,5 @@ mvn clean install
 --> To run the application, use the below command
 mvn spring-boot:run
 
---> After the start of the application we can host it at local host by sending a request
+--> After the start of the application, we can host it at local host by sending a request
 http://localhost:4001/api/time/convert?time=22:45
